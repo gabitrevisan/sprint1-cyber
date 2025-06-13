@@ -4,6 +4,8 @@ CyberSecurity
 ## NexTech
 3ESPW – Eduardo Araujo (RM99758), Gabriela Trevisan (RM99500), Leonardo Bonini (RM551716) e Rafael Franck (RM550875)
 
+- acesso ao repositório no GitHub via https://github.com/gabitrevisan/sprint1-cyber
+
 ## Requirements
 - bcrypt==4.0.1
 - cryptography==39.0.1
