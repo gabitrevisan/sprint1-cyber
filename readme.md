@@ -5,17 +5,12 @@ CyberSecurity
 3ESPW – Eduardo Araujo (RM99758), Gabriela Trevisan (RM99500), Leonardo Bonini (RM551716) e Rafael Franck (RM550875)
 
 ## Requirements
-bcrypt==4.0.1
-
-cryptography==39.0.1
-
-requests==2.28.2
-
-pyjwt==2.6.0
-
-bandit==1.7.4
-
-flake8==6.0.0
+- bcrypt==4.0.1
+- cryptography==39.0.1
+- requests==2.28.2
+- pyjwt==2.6.0
+- bandit==1.7.4
+- flake8==6.0.0
 
 ## How to run...
 * Atenção! garanta que está no diretório correto [sp1_cyber] antes de iniciar a aplicação
