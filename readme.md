@@ -6,10 +6,15 @@ CyberSecurity
 
 ## Requirements
 bcrypt==4.0.1
+
 cryptography==39.0.1
+
 requests==2.28.2
+
 pyjwt==2.6.0
+
 bandit==1.7.4
+
 flake8==6.0.0
 
 ## How to run...
