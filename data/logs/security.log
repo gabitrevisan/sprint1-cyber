@@ -1,0 +1,14 @@
+2025-06-12 22:56:05,045 - WARNING - Senha não atende aos requisitos de segurança
+2025-06-12 22:56:14,241 - ERROR - Erro ao carregar usuários: Expecting value: line 1 column 1 (char 0)
+2025-06-12 22:56:14,515 - INFO - Novo usuário registrado: admin
+2025-06-12 22:56:24,827 - WARNING - Tentativa de login falha para o usuário: admin
+2025-06-12 22:56:32,161 - INFO - Nova sessão criada para o usuário admin
+2025-06-12 22:56:32,287 - INFO - Login bem-sucedido para o usuário: admin
+2025-06-12 22:57:08,567 - WARNING - Tentativa de registrar usuário existente: admin
+2025-06-12 22:57:17,864 - INFO - Novo usuário registrado: gabi
+2025-06-12 22:57:30,337 - INFO - Nova sessão criada para o usuário gabi
+2025-06-12 22:57:30,354 - INFO - Login bem-sucedido para o usuário: gabi
+2025-06-12 23:07:58,698 - WARNING - Senha não atende aos requisitos de segurança
+2025-06-12 23:08:12,508 - WARNING - Tentativa de registrar usuário existente: admin
+2025-06-12 23:08:29,709 - INFO - Nova sessão criada para o usuário admin
+2025-06-12 23:08:29,726 - INFO - Login bem-sucedido para o usuário: admin
