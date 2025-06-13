@@ -13,12 +13,12 @@ bandit==1.7.4
 flake8==6.0.0
 
 ## How to run...
-* atenção! garanta que está no diretório correto [sp1_cyber] antes de iniciar a aplicação
-* aviso! os usuários "admin" e "gabi" já estão criados. se tentar o login deles, com a senha errada, dará erro! da mesma maneira que, caso tente criar novos usuários com o mesmo nome de login.
+* Atenção! garanta que está no diretório correto [sp1_cyber] antes de iniciar a aplicação
+* Aviso! os usuários "admin" e "gabi" já estão criados. Se tentar utilizar o login deles, com a senha errada, dará erro! Da mesma maneira, caso tente criar novos usuários com o mesmo login, também receberá uma mensagem de erro.
 ### iniciando a aplicação
 1) para fazer o cadastro do usuário, digite no terminal "python main.py register" 
 2) para fazer o login, digite no terminal "python main.py login"
-3) para fazer o logout, digite no terminal "python main.py logout --token [chave fornecida após o login]
+3) para fazer o logout, digite no terminal "python main.py logout --token [chave fornecida após o login]"
 
 
 ## Esse sistema conta com...
